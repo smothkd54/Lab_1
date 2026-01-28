@@ -1,6 +1,6 @@
 ## README.md
 
-echo # Rock Paper Scissors Game
+# Rock Paper Scissors Game
 
 A simple Rock Paper Scissors game written in Kotlin.
 
