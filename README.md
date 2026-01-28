@@ -27,4 +27,4 @@ kotlin RockPaperScissors.kt
 - Paper beats Rock
 
 ## Project Structure
-- \`RockPaperScissors.kt\` - Main game file" > README.md
+- \`RockPaperScissors.kt\` - Main game file > README.md
