@@ -1,4 +1,4 @@
-# README.md
+README.md
 echo # Rock Paper Scissors Game
 
 A simple Rock Paper Scissors game written in Kotlin.
@@ -11,15 +11,14 @@ A simple Rock Paper Scissors game written in Kotlin.
 ## Running the Game
 
 ### Option 1: Using Kotlin Compiler
-\`\`\`bash
+bash
 kotlinc RockPaperScissors.kt -include-runtime -d RockPaperScissors.jar
 java -jar RockPaperScissors.jar
-\`\`\`
 
 ### Option 2: Using Kotlin Script
-\`\`\`bash
+bash
 kotlin RockPaperScissors.kt
-\`\`\`
+
 
 ## Game Rules
 - Rock beats Scissors
@@ -27,4 +26,4 @@ kotlin RockPaperScissors.kt
 - Paper beats Rock
 
 ## Project Structure
-- \`RockPaperScissors.kt\` - Main game file > README.md
+- RockPaperScissors.kt - Main game file > README.md
